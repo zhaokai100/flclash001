@@ -3,3 +3,5 @@ PROCESS-NAME,com.microsoft.emmx
 PROCESS-NAME,com.netflix.mediaclient
 PROCESS-NAME,com.google.android.googlequicksearchbox
 PROCESS-NAME,app.rvx.android.youtube
+PROCESS-NAME,com.android.vending
+PROCESS-NAME,com.metrolist.music
