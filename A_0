@@ -13,5 +13,6 @@ custom_proxy_group=非チャットソフトウェア`select`[]DIRECT`.*
 custom_proxy_group=広い帯域幅`select`[]DIRECT`.*
 custom_proxy_group=You Tubeダウンロード`select`[]DIRECT`.*
 custom_proxy_group=インスタントメッセージング`select`[]DIRECT`.*
+custom_proxy_group=日本ではありません`select`[]DIRECT`.*
 enable_rule_generator=true
 overwrite_original_rules=true
