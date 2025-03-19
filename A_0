@@ -1,5 +1,6 @@
 [custom]
 ruleset=REJECT,https://raw.githubusercontent.com/zhaokai100/flclash001/refs/heads/main/B_01
+ruleset=日本ではありません,https://raw.githubusercontent.com/zhaokai100/flclash001/refs/heads/main/B_0101
 ruleset=ドライブイン,https://raw.githubusercontent.com/zhaokai100/flclash001/refs/heads/main/B_02
 ruleset=REJECT,https://raw.githubusercontent.com/zhaokai100/flclash001/refs/heads/main/B_03
 ruleset=You Tubeダウンロード,https://raw.githubusercontent.com/zhaokai100/flclash001/refs/heads/main/B_04
