@@ -5,3 +5,5 @@ PROCESS-NAME,com.google.android.googlequicksearchbox
 PROCESS-NAME,app.rvx.android.youtube
 PROCESS-NAME,com.android.vending
 PROCESS-NAME,com.metrolist.music
+PROCESS-NAME,app.revanced.android.youtube
+PROCESS-NAME,revanced.android.flutter
