@@ -1,5 +1,5 @@
 [custom]
-ruleset=ドライブイン,[]FINAL
+ruleset=通用,[]FINAL
 custom_proxy_group=通用`select`.*
 custom_proxy_group=非日本IP`select`.*
 custom_proxy_group=即时`select`.*
