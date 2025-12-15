@@ -1,0 +1,7 @@
+[custom]
+ruleset=ドライブイン,[]FINAL
+custom_proxy_group=通用`select`[]test`.*
+custom_proxy_group=非日本IP`select`test`.*
+custom_proxy_group=即时`select`test`.*
+enable_rule_generator=true
+overwrite_original_rules=true
