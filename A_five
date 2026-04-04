@@ -1,8 +1,8 @@
 [custom]
 ruleset=通用,[]FINAL
-custom_proxy_group=通用`select`.*专
-custom_proxy_group=非倭IP`select`.*号
-custom_proxy_group=低倍`select`.*专
+custom_proxy_group=通用`select`.*
+custom_proxy_group=非倭IP`select`.*
+custom_proxy_group=低倍`select`.*
 custom_proxy_group=视频`select`[]通用`[]低倍`.*VV
 custom_proxy_group=即时`select`.*V
 enable_rule_generator=true
