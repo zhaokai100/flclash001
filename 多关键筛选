@@ -1,0 +1,9 @@
+ruleset=通用,[]FINAL
+custom_proxy_group=通用`select`.*V
+custom_proxy_group=非倭IP`select`(.*关键词1|.*关键词2)
+custom_proxy_group=美国`select`(.*V|.*US)
+custom_proxy_group=低倍`select`.*0.1
+custom_proxy_group=视频`select`[]通用`[]低倍`.*VV
+custom_proxy_group=即时`select`(.*V|.*关键词2)
+enable_rule_generator=true
+overwrite_original_rules=true
