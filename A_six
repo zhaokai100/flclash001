@@ -1,6 +1,6 @@
 [custom]
 ruleset=通用,[]FINAL
-custom_proxy_group=通用`select`.*V
+custom_proxy_group=通用`select`[]低倍`[]美国`.*V
 custom_proxy_group=非倭IP`select`[]低倍`[]美国`.*V
 custom_proxy_group=美国`select`.*V
 custom_proxy_group=低倍`select`.*0.1
