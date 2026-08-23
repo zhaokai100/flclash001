@@ -1,0 +1,22 @@
+const main = (config) => {
+  const rules = [
+    "NETWORK,udp,REJECT",
+    "DOMAIN-KEYWORD,rezvorck,REJECT",
+    "DOMAIN-KEYWORD,deepseek,DIRECT",
+    "DOMAIN-KEYWORD,lyrics.kugou,DIRECT",
+    "PROCESS-NAME,com.zhiliaoapp.musically,视频",
+    "PROCESS-NAME,com.kiwibrowser.browser.dev,通用",
+    "PROCESS-NAME,com.gtxfury.flyclash.meta,通用",
+    "PROCESS-NAME,com.junkfood.seal.preview,视频",
+    "PROCESS-NAME,com.google.android.youtube,视频",
+    "PROCESS-NAME,app.revanced.android.youtube,视频",
+    "DOMAIN-KEYWORD,hanime,非倭IP",
+    "DOMAIN-KEYWORD,18comic,非倭IP",
+    "PROCESS-NAME,app.revanced.android.gms,通用",
+    "PROCESS-NAME,org.schabi.newpipe,通用",
+    "MATCH,REJECT"
+  ];
+
+  config["rules"] = rules;
+  return config;
+}
